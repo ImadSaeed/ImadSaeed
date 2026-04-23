@@ -30,7 +30,7 @@
 - **MLOps:** Feature caching, Class weights computation, Data pipelines, Ensemble methods, Argparse, tf.data
 
 ### 🔄 Currently Learning
-- NLP (RNN, LSTM, Transformers, Attention Mechanisms)
+- NLP (RNN, LSTM, Transformers, Attention Mechanisms,Embedding Techniques)
 - Vision Transformers (ViT), Multimodal AI
 - GANs, Diffusion Models, UNet
 - Reinforcement Learning, Agentic AI
