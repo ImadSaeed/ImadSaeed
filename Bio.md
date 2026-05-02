@@ -19,6 +19,9 @@
 
 **Key Lesson:** Abandoned failing fine-tuning (14% accuracy), pivoted to feature caching → achieved 99.77%
 
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nzzuuuhpyzpaiybgyqvtbg.streamlit.app/).
+ **NOTE:** The Streamlit accessible via the badge here uses a single "Tiny NN" model for simplicity in my first Deployment.
+
 ---
 
 ## 🔧 Technical Arsenal
@@ -57,6 +60,7 @@ The best lessons come from failures. I spent 20 hours debugging a fine-tuning pi
 
 - **GitHub:** [@imadsaeed](https://github.com/imadsaeed)
 - **LinkedIn:** [Imad Saeed](https://linkedin.com/in/imadsaeed)
+- **Kaggle**: [@yourkaggleusername](https://www.kaggle.com/imadsaeed123)
 - **Email:** imadsaeedcash@gmail.com
 
 ---
