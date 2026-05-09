@@ -27,10 +27,11 @@
 ## 🔧 Technical Arsenal
 
 ### ✅ Completed
-- **Classical ML:** Regression (Linear, Multilinear, Polynomial, Logistic), SVM, KNN, Naive Bayes, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, SMOTE
-- **Deep Learning:** ANN, CNN, Transfer Learning, TensorFlow, PyTorch (starting)
+- **Classical ML:** Regression (Linear, Multilinear, Polynomial, Logistic, etc), SVM, KNN, Naive Bayes, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, SMOTE
+- **Deep Learning:** ANN, CNN, Transfer Learning, TensorFlow, PyTorch
 - **Computer Vision:** CLAHE (LAB space), Albumentations (Light/Medium/Heavy), 6 Denoising methods, OpenCV, YOLO, 3D CNN
 - **MLOps:** Feature caching, Class weights computation, Data pipelines, Ensemble methods, Argparse, tf.data
+- **NLP:** Embedding Techniques(Sparse Embeddings,Dense Embeddings)
 
 ### 🔄 Currently Learning
 - NLP (RNN, LSTM, Transformers, Attention Mechanisms,Embedding Techniques)
